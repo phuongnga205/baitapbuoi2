@@ -21,6 +21,7 @@ body {
 
 form {
     background-color: white;
+    box-shadow: 10px 10px rgb(81, 165, 121);
     padding: 30px;
 }
 
